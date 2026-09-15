@@ -1,0 +1,272 @@
+[
+  [
+    1,
+    "MISMATCH",
+    "Palacios-Cena D",
+    2021,
+    "Front Public Health",
+    "VOL: cited=9 vs PubMed=22; PAGES: cited=694235 vs PubMed=382-395; AUTHOR: cited=Palacios-Cena D vs PubMed=Palacios-Ceña D",
+    "33164071"
+  ],
+  [
+    2,
+    "MISMATCH",
+    "Pico-Espinosa OJ",
+    2019,
+    "Clin J Pain",
+    "YEAR: cited=2019 vs PubMed=2026 Jun 15; VOL: cited=35 vs PubMed=; PAGES: cited=678-685 vs PubMed=315125261460980; AUTHOR: cited=Pico-Espinosa OJ vs PubMed=Kirmizi M",
+    "42290640"
+  ],
+  [
+    3,
+    "MISMATCH",
+    "Angst F",
+    2023,
+    "J Affect Disord",
+    "YEAR: cited=2023 vs PubMed=2020 Aug 1; VOL: cited=339 vs PubMed=273; PAGES: cited=648-657 vs PubMed=508-516",
+    "32560947"
+  ],
+  [
+    4,
+    "MISMATCH",
+    "Kogl N",
+    2025,
+    "Spine J",
+    "PAGES: cited=389-397 vs PubMed=1918-1927; AUTHOR: cited=Kogl N vs PubMed=Kögl N",
+    "40154627"
+  ],
+  [
+    5,
+    "MISMATCH",
+    "Giummarra MJ",
+    2016,
+    "Clin J Pain",
+    "PAGES: cited=709-716 vs PubMed=817-27",
+    "26889614"
+  ],
+  [
+    6,
+    "MISMATCH",
+    "Scott KM",
+    2018,
+    "Soc Psychiatry Psychiatr Epidemiol",
+    "VOL: cited=53 vs PubMed=48; PAGES: cited=603-612 vs PubMed=2730-2739",
+    "29478433"
+  ],
+  [
+    7,
+    "VERIFIED",
+    "Beveridge JK",
+    2024,
+    "Pain",
+    "PMID:38112571 - all fields OK",
+    "38112571"
+  ],
+  [
+    8,
+    "VERIFIED",
+    "Gureje O",
+    2007,
+    "Curr Opin Psychiatry",
+    "PMID:17143081 - all fields OK",
+    "17143081"
+  ],
+  [
+    9,
+    "MISMATCH",
+    "Goesling J",
+    2019,
+    "Handb Clin Neurol",
+    "YEAR: cited=2019 vs PubMed=2026 Dec; VOL: cited=161 vs PubMed=32; PAGES: cited=287-297 vs PubMed=2691458; AUTHOR: cited=Goesling J vs PubMed=Lúcio MJ",
+    "42313074"
+  ],
+  [
+    10,
+    "VERIFIED",
+    "Subramaniam M",
+    2013,
+    "Pain Res Manag",
+    "PMID:23936892 - all fields OK",
+    "23936892"
+  ],
+  [
+    11,
+    "MISMATCH",
+    "Baweja R",
+    2023,
+    "J Am Acad Child Adolesc Psychiatry",
+    "YEAR: cited=2023 vs PubMed=2022 Dec; VOL: cited=62 vs PubMed=61; PAGES: cited=389-401 vs PubMed=1411-1414",
+    "35483656"
+  ],
+  [
+    12,
+    "VERIFIED",
+    "Twillman RK",
+    2007,
+    "J Pain Palliat Care Pharmacother",
+    "PMID:18032311 - all fields OK",
+    "18032311"
+  ],
+  [
+    13,
+    "VERIFIED",
+    "Palmer TM",
+    2012,
+    "Stat Methods Med Res",
+    "PMID:21216802 - all fields OK",
+    "21216802"
+  ],
+  [
+    14,
+    "MISMATCH",
+    "Burgess S",
+    2017,
+    "Stat Methods Med Res",
+    "YEAR: cited=2017 vs PubMed=2023 Aug 22; VOL: cited=26 vs PubMed=15; AUTHOR: cited=Burgess S vs PubMed=Feng Q",
+    "37686714"
+  ],
+  [
+    15,
+    "VERIFIED",
+    "Kjaergaard AD",
+    2021,
+    "Eur J Epidemiol",
+    "PMID:33548002 - all fields OK",
+    "33548002"
+  ],
+  [
+    16,
+    "VERIFIED",
+    "Xiao G",
+    2022,
+    "J Transl Med",
+    "PMID:36266699 - all fields OK",
+    "36266699"
+  ],
+  [
+    17,
+    "VERIFIED",
+    "Xiao Z",
+    2023,
+    "J Transl Med",
+    "PMID:37840123 - all fields OK",
+    "37840123"
+  ],
+  [
+    18,
+    "VERIFIED",
+    "Huang W",
+    2024,
+    "BMC Med",
+    "PMID:39113079 - all fields OK",
+    "39113079"
+  ],
+  [
+    19,
+    "VERIFIED",
+    "Fan R",
+    2024,
+    "Respir Res",
+    "PMID:39567991 - all fields OK",
+    "39567991"
+  ],
+  [
+    20,
+    "MISMATCH",
+    "Ma M",
+    2022,
+    "Nutrients",
+    "YEAR: cited=2022 vs PubMed=2025 Mar 8; VOL: cited=14 vs PubMed=15; PAGES: cited=1878 vs PubMed=8092; AUTHOR: cited=Ma M vs PubMed=Peng X",
+    "40057583"
+  ],
+  [
+    21,
+    "VERIFIED",
+    "Ding M",
+    2023,
+    "Clin Oral Investig",
+    "PMID:36749410 - all fields OK",
+    "36749410"
+  ],
+  [
+    22,
+    "MISMATCH",
+    "Taageby Nielsen S",
+    2025,
+    "Eur Heart J",
+    "YEAR: cited=2025 vs PubMed=2026 Jan; VOL: cited=46 vs PubMed=20; PAGES: cited=4316-4325 vs PubMed=26-37; AUTHOR: cited=Taageby Nielsen S vs PubMed=Paparodis RD",
+    "41708212"
+  ],
+  [
+    23,
+    "VERIFIED",
+    "Tanaka M",
+    2021,
+    "Biomedicines",
+    "PMID:34440101 - all fields OK",
+    "34440101"
+  ],
+  [
+    24,
+    "MISMATCH",
+    "Maulitz L",
+    2024,
+    "Hum Reprod",
+    "PAGES: cited=1493-1503 vs PubMed=2473-2484",
+    "39241806"
+  ],
+  [
+    25,
+    "MISMATCH",
+    "Amodeo G",
+    2024,
+    "Life Sci",
+    "YEAR: cited=2024 vs PubMed=2025 Aug 1; VOL: cited=327 vs PubMed=374; PAGES: cited=119857 vs PubMed=123710",
+    "40360087"
+  ],
+  [
+    26,
+    "MISMATCH",
+    "Luond AM",
+    2025,
+    "Neuropsychobiology",
+    "AUTHOR: cited=Luond AM vs PubMed=Lüönd AM",
+    "39809241"
+  ],
+  [
+    27,
+    "VERIFIED",
+    "Shen Z",
+    2023,
+    "Front Mol Neurosci",
+    "PMID:36891517 - all fields OK",
+    "36891517"
+  ],
+  [
+    28,
+    "VERIFIED",
+    "Brion MJ",
+    2013,
+    "Int J Epidemiol",
+    "PMID:24159078 - all fields OK",
+    "24159078"
+  ],
+  [
+    29,
+    "VERIFIED",
+    "Hemani G",
+    2018,
+    "Elife",
+    "PMID:29846171 - all fields OK",
+    "29846171"
+  ],
+  [
+    30,
+    "MISMATCH",
+    "Carter AR",
+    2024,
+    "Nat Rev Methods Primers",
+    "YEAR: cited=2024 vs PubMed=2018 Jul 17; VOL: cited=4 vs PubMed=72; PAGES: cited=54 vs PubMed=300-310; AUTHOR: cited=Carter AR vs PubMed=Sjaarda J",
+    "30012324"
+  ]
+]
