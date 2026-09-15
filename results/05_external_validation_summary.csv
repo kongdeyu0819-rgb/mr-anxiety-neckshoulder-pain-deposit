@@ -1,0 +1,5 @@
+"Dataset","Exposure","NSNP","IVW_OR","CI","P_value","Direction"
+"ukb-b-6991","UKB GP-ANXD",182,1.19,"(1.123-1.261)",4.27e-09,"Positive"
+"finn-b-KRA_PSY_ANXIETY","FinnGen Anxiety",41,1.001,"(0.99-1.012)",0.851,"Positive"
+"ebi-a-GCST90038651","EBI Anxiety",27,1.907,"(0.949-3.833)",0.0697,"Positive"
+"ukb-b-17243","UKB Anxiety/panic",12,1.54,"(0.564-4.205)",0.4,"Positive"

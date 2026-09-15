@@ -1,0 +1,4 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","OR","OR_lower","OR_upper"
+"ebi-a-GCST90038651","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Anxiety or panic attacks || id:ebi-a-GCST90038651","Inverse variance weighted (fixed effects)",27,0.645770834664485,0.356063164373481,0.0697329787997194,1.90745679654515,0.949221629584246,3.83302625781914
+"ebi-a-GCST90038651","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Anxiety or panic attacks || id:ebi-a-GCST90038651","Weighted median",27,1.11492052631514,0.510932505226764,0.0291000293975761,3.04932582839263,1.12018384154193,8.30076962626346
+"ebi-a-GCST90038651","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Anxiety or panic attacks || id:ebi-a-GCST90038651","MR Egger (bootstrap)",27,0.535711876393128,0.954868386431893,0.292,1.7086641670931,0.26293980245333,11.10342827015

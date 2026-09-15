@@ -1,0 +1,2 @@
+"Analysis","Threshold","N_SNPs","Total_R2","Mean_F","Min_F","Outcome_N","Actual_reverse_OR","Actual_reverse_P","Min_detectable_OR_80power","Min_detectable_OR_50power","Power_adequate"
+"Reverse MR (CNSP -> GP-ANXD)","p<1e-5",26,0.001152,21.4,19.5,459560,1.025,0.238,3.095,2.971,"LIMITED"
