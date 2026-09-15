@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-6991","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Seen doctor (GP) for nerves, anxiety, tension or depression || id:ukb-b-6991","Inverse variance weighted",182,0.173880921134424,0.0319200915313786,5.11167027310713e-08
+"ukb-b-6991","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Seen doctor (GP) for nerves, anxiety, tension or depression || id:ukb-b-6991","MR Egger",182,0.327750624226038,0.130235352398683,0.0127231673279549
+"ukb-b-6991","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Seen doctor (GP) for nerves, anxiety, tension or depression || id:ukb-b-6991","Weighted median",182,0.194593432641788,0.0435373949978024,7.83770220198822e-06
+"ukb-b-6991","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Seen doctor (GP) for nerves, anxiety, tension or depression || id:ukb-b-6991","Weighted mode",182,0.176082714591095,0.156923410514946,0.263309091712177
