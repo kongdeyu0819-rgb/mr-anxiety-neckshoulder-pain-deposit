@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-b-35","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","C-Reactive protein level || id:ieu-b-35","Inverse variance weighted (fixed effects)",55,-0.00116715209370266,0.00531670902505107,0.826240881253567
+"ieu-b-35","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","C-Reactive protein level || id:ieu-b-35","Weighted median",55,-0.000421001568071272,0.00798984453165027,0.957977245434353

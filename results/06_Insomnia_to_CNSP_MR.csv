@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-3957","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Sleeplessness / insomnia || id:ukb-b-3957","Inverse variance weighted (fixed effects)",39,0.152094238636423,0.0322243891521812,2.36020222737745e-06
+"ukb-b-3957","ukb-b-16118","Neck/shoulder pain for 3+ months || id:ukb-b-16118","Sleeplessness / insomnia || id:ukb-b-3957","Weighted median",39,0.163270914255695,0.0530190289325528,0.00207363933287842
