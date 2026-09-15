@@ -1,0 +1,40 @@
+{
+  "title": "Analysis code and derived results for: Is Genetically Proxied Anxiety a Causal Risk Factor for Chronic Neck-Shoulder Pain? A Two-Sample Mendelian Randomization Study",
+  "creators": [
+    {
+      "name": "Dong, Jige",
+      "affiliation": "aSSIST University, 46, Ewhayeodae 2-gil, Seodaemun-gu, Seoul, 03767, Republic of Korea",
+      "orcid": "0009-0006-5606-8305"
+    },
+    {
+      "name": "Huang, Minghao",
+      "affiliation": "aSSIST University, 46, Ewhayeodae 2-gil, Seodaemun-gu, Seoul, 03767, Republic of Korea",
+      "orcid": "0000-0001-9129-1744"
+    }
+  ],
+  "description": "Analysis code (R/Python) and derived result tables for a two-sample Mendelian randomization study of genetically proxied anxiety-related presentation (GP-ANXD) and chronic neck-shoulder pain, including cross-design replication using FinnGen R12 outcomes. Input data are publicly available GWAS summary statistics from IEU OpenGWAS and the FinnGen public release; no individual-level data were used.",
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "dataset",
+  "keywords": [
+    "Mendelian randomization",
+    "anxiety",
+    "chronic pain",
+    "neck pain",
+    "shoulder pain",
+    "causal inference",
+    "physiotherapy"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://gwas.mrcieu.ac.uk/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.finngen.fi/en/researchers/clinical-endpoints",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ]
+}

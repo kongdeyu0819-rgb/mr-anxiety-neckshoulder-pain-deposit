@@ -1,0 +1,4 @@
+"Mediator","X_to_M_beta","X_to_M_OR","X_to_M_P","M_to_Y_beta","M_to_Y_OR","M_to_Y_P","Prop_mediated_pct","Mediation_supported"
+"CRP",0.0641,1.066,0.304,-0.0012,0.999,0.826,0,"NO"
+"BMI",0.1896,1.209,0.00214,0.0173,1.017,0.0838,2,"NO"
+"Insomnia",0.4166,1.517,1.45e-80,0.1521,1.164,2.36e-06,38.3,"YES"
