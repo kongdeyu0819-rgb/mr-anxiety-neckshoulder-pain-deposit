@@ -7,7 +7,6 @@
 #   - 抑郁GWAS (PGC-MDD / UKB depression)
 #   - CNSP GWAS (ukb-b-16118)
 # 依赖包：MendelianRandomization (CRAN), TwoSampleMR
-# 作者：MedResearch Pro 辅助生成
 # 日期：2026-06-18
 ###############################################################################
 

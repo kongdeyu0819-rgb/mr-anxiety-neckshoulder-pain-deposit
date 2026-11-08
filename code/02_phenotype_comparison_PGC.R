@@ -6,7 +6,6 @@
 #   - PGC-MDD: Howard et al. 2019, Nat Neurosci (807,553人)
 #   - PGC-ANX: Otowa et al. 2022 (需确认公开可用性)
 #   - FinnGen anxiety/depression (替代方案)
-# 作者：MedResearch Pro 辅助生成
 # 日期：2026-06-18
 ###############################################################################
 

@@ -4,7 +4,6 @@
 # 方法：使用FinnGen R12/R13 GWAS数据重复正向MR分析
 # 核心优势：FinnGen独立于UK Biobank，提供真正的外部验证
 # 数据来源：FinnGen (finngen.fi) → 通过IEU OpenGWAS或本地下载
-# 作者：MedResearch Pro 辅助生成
 # 日期：2026-06-18
 ###############################################################################
 
@@ -316,16 +315,8 @@ if(exists("res_finngen_dep")) {
 }
 write.csv(validation_comparison, "validation_comparison_UKB_vs_FinnGen.csv", row.names = FALSE)
 
-cat("\nFinnGen外部验证分析完成。\n")
-cat("========================================\n")
-cat("外部验证的意义:\n")
-cat("========================================\n")
-cat("编辑要求'independent replication'，FinnGen是最可行的选择:\n")
-cat("  1. FinnGen独立于UKB，样本无重叠\n")
-cat("  2. 与UKB同为欧洲人群(可比性高)\n")
-cat("  3. 表型定义可能略有不同，但方向一致即支持结论稳定性\n")
-cat("  4. 如果FinnGen颈肩痛表型也可用，则可做完全独立的MR\n")
-cat("\n如果FinnGen数据不可用，可考虑:\n")
-cat("  - 使用Neuroticism (UK Biobank field 20127) 作为替代暴露重复分析\n")
-cat("  - 使用更大样本量的焦虑/抑郁GWAS (如23andMe数据) 作为验证\n")
-cat("  - 在UKB内部做10-fold交叉验证 (虽非真正外部验证，但可展示稳定性)\n")
+cat("\nExposure-side analyses completed.\n")
+cat("These analyses test whether the association holds when the exposure is drawn\n")
+cat("from other GWAS datasets. They are reported as supportive context. The FinnGen\n")
+cat("anxiety exposure returned a precise null and is not treated as independent\n")
+cat("replication of the primary association.\n")

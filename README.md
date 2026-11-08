@@ -1,8 +1,8 @@
-# Genetically Proxied Anxiety and Chronic Neck-Shoulder Pain: Two-Sample Mendelian Randomization
+# Analysis Code and Derived Results: Anxiety-Related Primary-Care Consultation and Chronic Neck-Shoulder Pain
 
 Analysis code and derived results for:
 
-> Is Genetically Proxied Anxiety a Causal Risk Factor for Chronic Neck-Shoulder Pain? A Two-Sample Mendelian Randomization Study with Implications for Physiotherapy Assessment
+> Is Genetic Liability to Anxiety-Related Primary-Care Consultation Associated with Chronic Neck-Shoulder Pain? A Two-Sample Mendelian Randomization Study with Implications for Physiotherapy Assessment
 
 ## Contents
 
@@ -44,9 +44,9 @@ The full FinnGen R12 summary-statistic files (approx. 800 MB each) are not redis
 | `code/02_phenotype_comparison_PGC.R` | GP-ANXD vs PGC-MDD phenotype comparison |
 | `code/03_MVMR_anxiety_depression.R` | Multivariable MR (GP-ANXD and PGC-MDD) |
 | `code/04_reverse_MR_power_calculation.R` | Reverse MR and formal power calculation |
-| `code/05_FinnGen_validation.R` | Exposure-side replication with three further anxiety GWAS |
+| `code/05_FinnGen_validation.R` | Exposure-side analyses with three further anxiety GWAS datasets |
 | `code/06_mediation_MR_analysis.R` | Two-step mediation MR (insomnia, CRP, BMI) |
-| `code/07_cross_design_FinnGen_outcome.py` | Outcome-side cross-design MR into FinnGen R12 cervicalgia and shoulder lesions |
+| `code/07_cross_design_FinnGen_outcome.py` | Exploratory outcome-side cross-design analysis into FinnGen R12 cervicalgia and shoulder lesions |
 
 ## Results files
 
@@ -54,8 +54,22 @@ The full FinnGen R12 summary-statistic files (approx. 800 MB each) are not redis
 
 ## Citation
 
-If you use this code or the derived results, please cite the associated manuscript. A versioned archive of this repository with a permanent DOI is available on Zenodo: https://doi.org/10.5281/zenodo.22764938 (concept DOI, resolves to the latest version)
+If you use this code or the derived results, please cite the associated manuscript. The repository is archived on Zenodo under concept DOI 10.5281/zenodo.22764938, which resolves to the latest version; the manuscript cites the version DOI current at submission. See CORRECTIONS.md and RELEASE_NOTES.md for the changes included in this alignment.
 
 ## License
 
 This repository is released under the MIT License (see `LICENSE`).
+
+
+## Correspondence with the revised manuscript
+
+This deposit matches the minor-revision manuscript (Manuscript ID 3082992). The
+revised manuscript reports an association, not a causal relationship; the
+FinnGen outcome-side analyses are labelled exploratory supportive evidence and
+are not described as replication (see `RELEASE_NOTES.md`).
+
+The reverse-MR power calculation was corrected on 2026-11-08. Running
+`Rscript code/04_reverse_MR_power_calculation.R` reproduces
+`results/04_reverse_MR_power_analysis.csv` (minimum detectable OR 1.129 at 80%
+power and 1.089 at 50% power) and `results/04_reverse_MR_power_curve.csv`
+without any network access or credentials.
