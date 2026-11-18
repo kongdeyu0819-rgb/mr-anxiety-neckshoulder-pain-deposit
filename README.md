@@ -73,3 +73,11 @@ The reverse-MR power calculation was corrected on 2026-11-08. Running
 `results/04_reverse_MR_power_analysis.csv` (minimum detectable OR 1.129 at 80%
 power and 1.089 at 50% power) and `results/04_reverse_MR_power_curve.csv`
 without any network access or credentials.
+
+The primary analysis uses 40 genome-wide significant, non-ambiguous instruments;
+`results/verify_estimates.log` records IVW OR = 1.249 (95% CI 1.126–1.385,
+p = 2.53 × 10⁻⁵), weighted median OR = 1.185, MR-Egger OR = 1.249 (p = 0.729;
+intercept p = 0.979) and Cochran's Q = 45.5 (df = 39, p = 0.220). The CSV result
+tables for the 182-instrument analysis correspond to the relaxed-threshold
+sensitivity analysis (IVW OR = 1.190). See `CORRECTIONS.md` for the 2026-11-18
+correction of the primary-analysis figures.

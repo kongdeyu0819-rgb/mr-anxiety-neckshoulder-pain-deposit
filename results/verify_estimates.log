@@ -1,0 +1,12 @@
+﻿STRICT p<5e-8: n=40
+  IVW  OR=1.249 (1.126-1.385) p=2.53e-05
+  WM   OR=1.185
+  Egger OR=1.249 (0.356-4.384) p=0.729
+  Egger intercept=-0.00001 se=0.00040 p=0.979
+  Q=45.5 df=39
+RELAXED p<1e-5: n=182
+  IVW  OR=1.190 (1.123-1.261) p=4.27e-09
+  WM   OR=1.185
+  Egger OR=1.193 (0.583-2.439) p=0.629
+  Egger intercept=0.00006 se=0.00021 p=0.78
+  Q=210.4 df=181

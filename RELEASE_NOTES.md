@@ -12,3 +12,10 @@ Changed relative to v1.0.5:
 6. AI-authoring comments removed from analysis scripts; internal Chinese commentary replaced with neutral English output.
 
 Before publishing, note that Zenodo's GitHub integration may still expose the GitHub account name in the record metadata and archive filename. If double-anonymous review must be preserved, publish this package as a manual deposit with anonymous creators, or keep the DOI out of the anonymised manuscript files.
+
+## 2026-11-18 — v1.0.7
+
+- Added `results/verify_estimates.log` and documented the correction of the primary-analysis figures to the archived 40-instrument output (IVW OR = 1.249); see `CORRECTIONS.md`.
+- `README.md` now identifies the 182-instrument result tables as the relaxed-threshold sensitivity analysis.
+
+No other scripts, result tables, metadata or figure files were changed.
